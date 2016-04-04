@@ -1,0 +1,4 @@
+sshd:100000:65536
+systemd-timesync:165536:65536
+systemd-network:231072:65536
+systemd-resolve:296608:65536
